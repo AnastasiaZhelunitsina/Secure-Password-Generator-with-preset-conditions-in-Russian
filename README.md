@@ -11,3 +11,5 @@ There is an exe file.
 Код был написан для системного администратора.
 Имеется exe файл.
 
+![Passwords2](https://user-images.githubusercontent.com/78534796/107044902-f4f00e00-67d5-11eb-8be4-4c5af8269237.png)
+![Passwords1](https://user-images.githubusercontent.com/78534796/107044905-f588a480-67d5-11eb-9b88-9b79271893bb.png)
